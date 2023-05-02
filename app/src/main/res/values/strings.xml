@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmartCounter</string>
+    <string name="pause_activity">pause_activity</string>
+    <string name="resume_activity">resume_activity</string>
+</resources>
